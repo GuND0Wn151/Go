@@ -5,6 +5,7 @@ Go is a procedural programming language. It was developed in 2007 by Robert Grie
 Go is syntactically similar to C, but with memory safety, garbage collection, structural typing and CSP-style concurrency.
 
 What big companies are using GO?
+
 1 .Google
 2. Facebook
 3. Tencent
