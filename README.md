@@ -7,4 +7,4 @@ Go is syntactically similar to C, but with memory safety, garbage collection, st
 ### Step 1
 
 Goto https://golang.org/dl/
-![}(installation/Step1.png
+![](installation/Step1.png
