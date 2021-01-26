@@ -6,7 +6,7 @@ Go is syntactically similar to C, but with memory safety, garbage collection, st
 
 What big companies are using GO?
 
-1 .Google
+1. Google
 
 2. Facebook
 
