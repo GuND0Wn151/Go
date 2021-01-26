@@ -4,3 +4,7 @@ Go is a procedural programming language. It was developed in 2007 by Robert Grie
 Go is syntactically similar to C, but with memory safety, garbage collection, structural typing and CSP-style concurrency.
 ####  It is convenient, fast, and secure to write code with Golang, and it provides cross-platform support, which simply can't be bad
 ## How to Download and install GO
+### Step 1
+
+Goto https://golang.org/dl/
+![installation/Step1.png]
