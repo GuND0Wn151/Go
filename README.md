@@ -7,12 +7,19 @@ Go is syntactically similar to C, but with memory safety, garbage collection, st
 What big companies are using GO?
 
 1 .Google
+
 2. Facebook
+
 3. Tencent
+
 4. Uber
+
 5. Twitch
+
 6. DropBox
+
 7. Xiaomi
+
 8. SoundCloud.
 
 ####  It is convenient, fast, and secure to write code with Golang, and it provides cross-platform support, which simply can't be bad
