@@ -10,10 +10,12 @@ Goto https://golang.org/dl/
 Download the the Installer acording to your computer
 ### Step 2
 Install the file and run it
+
 <img src="/installation/Step1.png">
 
 ### Step 2
 Choose the files and settings according to your convinence
+
 <img src="/installation/Step2.png">
 
 ### Step 3
@@ -21,10 +23,13 @@ Choose the files and settings according to your convinence
 
 <img src="/installation/Step4.png">
 ### Step 4
+
 Run the go Command to check whether the installation is complete
+
 <img src="/installation/Step5.png">
 
 ### Commands
+
 To run a .go file use go run Filename.go
 #### we can also make a exe file of our go which is quite good
 .go build Filename.go
@@ -32,6 +37,10 @@ To run a .go file use go run Filename.go
 
 
 
+
+---------------------------------------
+Success is my only option, failure’s not.
+----------------------------------------
 _____________________________________________________________________________
 Source :- https://golang.org/
 ## Made By:
