@@ -6,6 +6,7 @@ func main() {
 
 	// %S or %s for printing string
 	// \n for new line \t for tabspaces
+	// %d for integer %g for floats
 	fmt.Printf("%s\n", "String")
 
 	// %v for printing values
