@@ -42,7 +42,8 @@ Choose the files and settings according to your convinence
 <img src="/installation/Step3.png">
 
 <img src="/installation/Step4.png">
-### Step 4
+
+### Step 3
 
 Run the go Command to check whether the installation is complete
 
